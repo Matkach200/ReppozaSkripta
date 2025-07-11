@@ -6,7 +6,7 @@ let PunaTablica='';
 let arrayProzora=[];
 let arrayTablica=[];
 let clickCount = 0;
-let scriptUrl="https://skriptamatkach.glitch.me/script.js";
+let scriptUrl="https://raw.githubusercontent.com/Matkach200/ReppozaSkripta/refs/heads/main/script.js";
 function UpdateajGumb(){
 const gumb=document.getElementById('finishedButton');
 const kvacice = document.querySelectorAll('.rowCheckbox:checked').length;
